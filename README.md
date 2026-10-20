@@ -48,4 +48,4 @@ The highscore table is read from `highscores.csv` in the working directory.
 
 ## License
 
-BSD 3-Clause, see [LICENSE](LICENSE). Pac-Man and its original sound effects are trademarks and property of Bandai Namco Entertainment and are not covered by this license.
+BSD 3-Clause, see [LICENSE](LICENSE). The license covers the code in this repository. Pac-Man, its character designs and its original sound effects are trademarks and property of Bandai Namco Entertainment and are not covered by this license.
