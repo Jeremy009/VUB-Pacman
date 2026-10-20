@@ -1,0 +1,9 @@
+.DS_Store
+*.pro.user
+*.pro.user.*
+build-*/
+*.o
+moc_*
+qrc_*
+Makefile
+Pacman.app/

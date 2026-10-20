@@ -13,23 +13,23 @@ TARGET = Pacman
 TEMPLATE = app
 
 
-SOURCES += main.cpp \
-    Game.cpp \
-    Level.cpp \
-    Tile.cpp \
-    Score.cpp \
-    Health.cpp \
-    MovingObjects.cpp
+SOURCES += src/main.cpp \
+    src/Game.cpp \
+    src/Level.cpp \
+    src/Tile.cpp \
+    src/Score.cpp \
+    src/Health.cpp \
+    src/MovingObjects.cpp
 
 HEADERS  += \
-    Game.h \
-    Level.h \
-    Tile.h \
-    Score.h \
-    Health.h \
-    MovingObjects.h
+    src/Game.h \
+    src/Level.h \
+    src/Tile.h \
+    src/Score.h \
+    src/Health.h \
+    src/MovingObjects.h
 
 FORMS    +=
 
 RESOURCES += \
-    resources.qrc
+    resources/resources.qrc
